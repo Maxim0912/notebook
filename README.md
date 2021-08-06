@@ -1,4 +1,4 @@
-# notebook
+# regular notebook
 
 ## Project setup
 ```
